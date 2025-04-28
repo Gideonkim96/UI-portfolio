@@ -12,9 +12,9 @@ FontAwsome 4.0.2
 
 # Collaborations
 This project is a collaboration of team members who had the opportunity to work together namely;
-Gideon Rono 
-Judy Nyawira Mbui
-Eva Ndengwa
+Gideon Rono,
+Judy Nyawira Mbui,
+Eva Ndengwa.
 Collaborative projects are clearly marked within the portfolio, giving credit to all team members 
 involved where appropriate.
 
